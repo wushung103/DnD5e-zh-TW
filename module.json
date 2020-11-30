@@ -1,22 +1,22 @@
 {
-  "name": "5e_chn",
-  "title": "Translation: 中文 [DnD5E]",
-  "description": "为 FVTT 中的 DnD5e 系统添加了中文。",
-  "version": "0.1.5",
+  "name": "DnD5e-zh-TW",
+  "title": "Translation: 台灣繁中 [DnD5E]",
+  "description": "DnD5e 系統台灣繁中語系。",
+  "version": "0.1.0",
   "minimumCoreVersion": "0.6.5",
   "compatibleCoreVersion": "0.7.7",
-  "author": "FVTT-CN",
+  "author": "Una",
   "scripts": [],
   "styles": [],
   "packs": [],
   "languages": [
     {
-      "lang": "cn",
-      "name": "中文",
-      "path": "cn.json"
+      "lang": "zh-TW",
+      "name": "台灣繁中",
+      "path": "5e-zh-TW.json"
     }
   ],
-  "url": "https://github.com/fvtt-cn/5e_chn",
+  "url": "https://github.com/wushung103/DnD5e-zh-TW",
   "manifest": "https://raw.githubusercontent.com/fvtt-cn/5e_chn/main/module.json",
   "download": "https://github.com/fvtt-cn/5e_chn/releases/download/0.1.5/5e_chn.zip"
 }
