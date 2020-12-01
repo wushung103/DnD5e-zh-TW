@@ -314,7 +314,7 @@
 	"DND5E.Inventory": "持有物",
 	"DND5E.ItemActionType": "動作類型",
 	"DND5E.ItemActivationCondition": "啟動條件",
-	"DND5E.ItemActivationCost": "消耗費用",
+	"DND5E.ItemActivationCost": "Action Cost",
 	"DND5E.ItemAttackBonus": "攻擊加值",
 	"DND5E.ItemConsumableActivation": "消耗品效果",
 	"DND5E.ItemConsumableDetails": "詳細",
