@@ -547,7 +547,7 @@
 	"DND5E.SpellLevel8": "8環",
 	"DND5E.SpellLevel9": "9環",
 	"DND5E.SpellLevelPact": "契约法術位",
-	"DND5E.SpellLevelSlot": "{level} ({n} 法术位)",
+	"DND5E.SpellLevelSlot": "{level} ({n} 法術位數量)",
 	"DND5E.SpellMaterials": "施法材料",
 	"DND5E.SpellName": "法術名",
 	"DND5E.SpellNone": "無",
